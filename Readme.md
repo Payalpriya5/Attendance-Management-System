@@ -1,7 +1,6 @@
 # Attendance-Management-System
 
-Website : https://debrajhyper.github.io/Recipe_App/
-
+Website : https://github.com/Payalpriya5/Attendance-Management-System
 
     Its very easy way to take the attendance and it's special
     feature is piechart it will show how many students are 
@@ -9,7 +8,7 @@ Website : https://debrajhyper.github.io/Recipe_App/
 
 
 # Website Info
-Designed by <a href="https://https://github.com/Payalpriya5">Debraj Karmakar</a>
+Designed by <a href="https://https://github.com/Payalpriya5">Payal Priyadarsini</a>
 
 Technology Used :
 * Python
